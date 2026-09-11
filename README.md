@@ -1,2 +1,2 @@
 # Inter-Vox
-I’m building a working interview-screening app: candidates will upload a resume, complete a voice-led interview, allow camera-based confidence cues, and receive a score summary. I’ll also include a manager review area where shortlisted candidates and their resumes can be reviewed and marked as forwarded.
+InterVox is a Generative AI-based voice interview agent that conducts a first-level mock interview with every candidate before they reach a human recruiter. The candidate speaks to a neutral, blank-screen AI interviewer that asks a structured set of questions, listens to spoken answers using speech-to-text, and evaluates each response for confidence, communication skills, and relevance using NLP and audio-analysis techniques
